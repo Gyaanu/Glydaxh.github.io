@@ -1,2 +1,3 @@
-# Personal Page for glydaxh
-Welcome to my personal blog.
+# pianfan.github.io
+
+My Personal Blog via GitHub
