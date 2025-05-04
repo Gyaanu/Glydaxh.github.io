@@ -7,11 +7,11 @@ comments: true
 author: Glydaxh
 ---
 
-此文档为测试文档，用于测试我的个人网站搭建效果
+此文档为测试文档，用于测试我的个人网站搭建效果。
 
 <!-- more -->
 
 致谢：
 
 - 感谢 **Pianfan** 提供的网页模板和网页教程 (https://pianfan.github.io/build_own_website/)。
-- 感谢 **小小芋子** 提供的picGo图床教程 (http://zhuanlan.zhihu.com/p/489236769)
+- 感谢 **小小芋子** 提供的picGo图床教程 (http://zhuanlan.zhihu.com/p/489236769)。
